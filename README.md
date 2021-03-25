@@ -18,3 +18,7 @@ I wanted to play around with [ONNX.js](https://github.com/microsoft/onnxjs) and 
  - simple.
  - Install requirements: `pip install -r requirements.txt`
  - run: `python convert.py path/to/int64_model.onnx path/to/converted_int32_model.onnx`
+
+
+## Also Checkout
+- https://github.com/microsoft/onnxjs/issues/168#issuecomment-727219050
