@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# custom
+onnx_models/
+notebooks/
+DS_Store/
